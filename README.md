@@ -4,9 +4,7 @@
 ***
 - [General Info](#general-info)
 - [Usage](#usage)
-- [Dependency](#dependency)
 - [Test](#test)
-- [Todo](#todo)
 - [References](#references)
 
 
@@ -16,7 +14,7 @@
 
 ## General Info
 ***
-This is a simple algorithm to calculate the phase of the moon at a given date using the Arduino environment. Here, I used the [Heltec esp32 v2](https://heltec.org/project/wifi-lora-32/) development board.   
+This is a simple algorithm to calculate Moon's Phase on a given date using the Arduino environment. Here, I used the [Heltec esp32 v2](https://heltec.org/project/wifi-lora-32/) development board.   
 The algorithm is inspired by the magazine [skyandtelescope](https://skyandtelescope.org/wp-content/plugins/observing-tools/moonphase/moon.html).   
 You can find also a previous version using an Arduino nano and a Nokia LCD display in my [old Github account](https://github.com/TorLab/MoonPhaseCalculation).
 
@@ -42,17 +40,12 @@ int month = 8;
 int year = 2021;
 ```
 
-## Dependency
-***
-
 
 ## Test
 ***
-
-
-
-## Todo
-***
+Make sure to install the fellowing dependencies to test the program:
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* [u8g2 Library](https://github.com/olikraus/u8g2/wiki)   
 
 
 
@@ -60,3 +53,6 @@ int year = 2021;
 
 ## References
 ***
+
+- [U8g2 Font List](https://github.com/olikraus/u8g2/wiki/fntlist8#5-pixel-height)
+- [Sky & Telescope](https://skyandtelescope.org/wp-content/plugins/observing-tools/moonphase/moon.html)
