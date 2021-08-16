@@ -44,7 +44,6 @@ int year = 2021;
 ## Test
 ***
 Make sure to install the fellowing dependencies to test the program:
-* [Arduino IDE](https://www.arduino.cc/en/software)
 * [u8g2 Library](https://github.com/olikraus/u8g2/wiki)   
 
 
