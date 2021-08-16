@@ -5,7 +5,7 @@
 - [General Info](#general-info)
 - [Usage](#usage)
 - [Test](#test)
-- [References](#references)
+- [References](#useful-link-and-references)
 
 
 
@@ -50,7 +50,7 @@ Make sure to install the fellowing dependencies to test the program:
 
 
 
-## References
+## Useful link and References
 ***
 
 - [U8g2 Font List](https://github.com/olikraus/u8g2/wiki/fntlist8#5-pixel-height)
