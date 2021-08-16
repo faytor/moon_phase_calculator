@@ -26,7 +26,7 @@ The main function is moonPhases(int year, int month, int day) where 'year' is a 
 moonNum = moonPhases(year, month, day);
 ```
 Where ``moonNum`` corresponds to the "moon day/age", as well as the bitmap image to be drawn on the OLED display.   
-A Time zone is also needen in the calculation of the Julian day : 
+A Time zone is also needed for the calculation of the Julian day : 
 ```
 int timeZone = 2;
 ```
