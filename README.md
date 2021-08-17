@@ -6,6 +6,8 @@
 - [Usage](#usage)
 - [Test](#test)
 - [References](#useful-link-and-references)
+- [Todo](#todo)
+
 
 
 
@@ -55,3 +57,7 @@ int year = 2021;
 - [U8g2 Font List](https://github.com/olikraus/u8g2/wiki/fntlist8#5-pixel-height)
 - [Sky & Telescope](https://skyandtelescope.org/wp-content/plugins/observing-tools/moonphase/moon.html)
 - I used [Open LCD Assisstant](https://github.com/faytor/open_lcd_assistant) to generate the moon byte arrays 
+
+
+## Todo
+- Add an example using NTP server to get the current date 
