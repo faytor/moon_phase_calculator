@@ -46,7 +46,15 @@ int year = 2021;
 Make sure to install the fellowing dependencies before you run the program:
 * [u8g2 Library](https://github.com/olikraus/u8g2/wiki)   
 
+Here is an output example of the following inputs :
+```
+int timeZone = 2;
+int day = 17;
+int month = 8;
+int year = 2021;
+```
 
+![Image text](./images/Test_Moon_Phase.jpg)
 
 
 
